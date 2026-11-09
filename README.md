@@ -10,3 +10,6 @@ Upload all files and the `assets` folder to the root of the GitHub repository, t
 
 ## Add another devotional
 Open `devotionals.json`, add a comma after the current devotional object, and add another object using the same structure. Use dates in `YYYY-MM-DD` format. The site publishes according to the `Africa/Lagos` timezone.
+
+## November 2026 Daily Victory Recharge
+Includes dated Daily Victory Recharge entries for November 1 through November 30, 2026. The site uses the Africa/Lagos timezone for daily publication and keeps earlier entries available in the archive.
